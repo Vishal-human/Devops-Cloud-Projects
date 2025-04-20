@@ -124,10 +124,16 @@ This implementation demonstrates practical application of DevOps principles to c
 Screenshots
 ----------
 
+### jenkins:
 ![Screenshot 1](./images/1.jpeg)
+### EC2-Machine(Jenkins,Nexus,sonar)
 ![Screenshot 2](./images/2.jpeg)
+### NEXUS 
 ![Screenshot 3](./images/3.jpeg)
+### SonarQube -codeQualty
 ![Screenshot 4](./images/4.jpeg)
 ![Screenshot 5](./images/5.jpeg)
+
+## ECR -Application Image Store
 ![Screenshot 6](./images/6.jpeg)
 

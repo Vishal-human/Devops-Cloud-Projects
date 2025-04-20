@@ -124,10 +124,10 @@ This implementation demonstrates practical application of DevOps principles to c
 Screenshots
 ----------
 
-![Screenshot 1](/images/1.jpeg)
-![Screenshot 2](/images/2.jpeg)
-![Screenshot 3](/images/3.jpeg)
-![Screenshot 4](/images/4.jpeg)
-![Screenshot 5](/images/5.jpeg)
-![Screenshot 6](/images/6.jpeg)
+![Screenshot 1](./images/1.jpeg)
+![Screenshot 2](./images/2.jpeg)
+![Screenshot 3](./images/3.jpeg)
+![Screenshot 4](./images/4.jpeg)
+![Screenshot 5](./images/5.jpeg)
+![Screenshot 6](./images/6.jpeg)
 

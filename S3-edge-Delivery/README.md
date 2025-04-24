@@ -15,6 +15,8 @@ To deploy a static website with:
 ---
 
 ## 🏗️ Architecture Overview
+![Architecture Overview](./images/arc.jpeg)
+
 
 
 ### Key Components:
@@ -28,7 +30,7 @@ To deploy a static website with:
 
 ### 1. 🔧 Configure the S3 Bucket
 
-![Architecture Overview](./images/1.jpeg)
+![Overview](./images/1.jpeg)
 
 - Created a private bucket: `testing-project-cdn-2`.
 - Enabled static website hosting.
